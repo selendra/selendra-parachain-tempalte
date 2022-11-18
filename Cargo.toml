@@ -3,7 +3,8 @@ resolver = "2"
 
 members = [
     "pallets/template",
-    "runtime"
+    "runtime",
+    "node"
 ]
 
 [profile.release]
